@@ -1,1 +1,1 @@
-# Prepoznava-stevil
+# Prepoznava števil
